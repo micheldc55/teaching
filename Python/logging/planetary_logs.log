@@ -1,8 +1,8 @@
-2023-02-05 21:15:46,872 | INFO | Planetary system Solar System was created. All planets orbit Sun
-2023-02-05 21:15:46,872 | INFO | Planet Mercury with a period of 0.241 years and a distance of 0.3872677762250121 AU was created
-2023-02-05 21:15:46,872 | INFO | Planet Venus with a period of 0.616 years and a distance of 0.7239698409341156 AU was created
-2023-02-05 21:15:46,872 | WARNING | The period passed for planet "Earth" was an int, so it was coherced to a float.
-2023-02-05 21:15:46,872 | INFO | Planet Earth with a period of 1.0 years and a distance of 1.0 AU was created
-2023-02-05 21:15:46,873 | INFO | Planet Mars with a period of 1.882 years and a distance of 1.5243326292454282 AU was created
-2023-02-05 21:15:46,873 | INFO | Planet Jupiter with a period of 11.871 years and a distance of 5.20385120275373 AU was created
-2023-02-05 21:15:46,874 | INFO | Planet Saturn with a period of 29.477 years and a distance of 9.542353935846775 AU was created
+2023-02-05 21:24:47,732 | INFO | Planetary system Solar System was created. All planets orbit Sun
+2023-02-05 21:24:47,732 | INFO | Planet Mercury with a period of 0.241 years and a distance of 0.3872677762250121 AU was created
+2023-02-05 21:24:47,732 | INFO | Planet Venus with a period of 0.616 years and a distance of 0.7239698409341156 AU was created
+2023-02-05 21:24:47,732 | WARNING | The period passed for planet "Earth" was an int, so it was coherced to a float.
+2023-02-05 21:24:47,732 | INFO | Planet Earth with a period of 1.0 years and a distance of 1.0 AU was created
+2023-02-05 21:24:47,732 | INFO | Planet Mars with a period of 1.882 years and a distance of 1.5243326292454282 AU was created
+2023-02-05 21:24:47,733 | INFO | Planet Jupiter with a period of 11.871 years and a distance of 5.20385120275373 AU was created
+2023-02-05 21:24:47,733 | ERROR | Value for the 'period' was not a float for planet Saturn. User passed: twenty with type <class 'str'>

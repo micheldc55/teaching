@@ -76,7 +76,7 @@ if __name__ == '__main__':
     SolarSystem = PlanetarySystem("Solar System", "Sun")
 
     planets = ['Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn']
-    periods = [0.241, 0.616, 1, 1.882, 11.871, 29.477]
+    periods = [0.241, 0.616, 1, 1.882, 11.871, 'twenty']
 
     for planet, period in zip(planets, periods):
         SolarSystem.add_planet(planet, period)
